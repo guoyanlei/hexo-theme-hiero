@@ -135,7 +135,3 @@ facebook_sdk:
 
 # CNZZ count
 cnzz_siteid:
-
-# Ad
-ad:
-  google_adsense_ad_client_id: ca-pub-0123456789ABCDEF
