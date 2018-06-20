@@ -135,7 +135,7 @@ input[type="reset"],
 input[type="submit"] {
 	padding: 5px 15px;
 	color: #fff;
-	font-size: 1.2em;
+	font-size: 1.1em;
 	font-weight: 400;
 	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	line-height: 30px;
@@ -261,7 +261,7 @@ object {
 	}
 .site-title {
 	margin: 0;
-	font-size: 4.25em;
+	font-size: 3.55em;
 	font-family: "Yanone Kaffeesatz", "Microsoft YaHei Light", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	line-height: 1;
@@ -355,7 +355,7 @@ object {
 	margin: 0 -2px 0 0;
 	padding: 0 20px;
 	color: #fff;
-	font-size: 1.2em;
+	font-size: 1.05em;
 	font-weight: 400;
 	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-decoration: none;
@@ -835,7 +835,7 @@ body.search .page .entry-footer {
 	}
 .widget-title {
 	margin: 0;
-	font-size: 1.6em;
+	font-size: 1.2em;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	margin: 0 0 -1px;
@@ -900,7 +900,7 @@ body.search .page .entry-footer {
 	display: block;
 	padding: 5px 15px;
 	color: #999;
-	font-size: 1.3em;
+	font-size: 1.1em;
 	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
